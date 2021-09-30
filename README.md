@@ -8,6 +8,8 @@ In real world, most of the signals are analog in nature while the digital system
 
 An n-bit Digital to Analog Converter (DAC) takes in n-bit digital input and converts it into corresponding analog voltage level with respect to the reference voltage. The potentiometric DAC used in the design uses the concept of Voltage Divider.It consists of 2^N equal resistors connencted in series. The basic architecture of an N-bit potentiometric DAC is shown in the figure below.
 
+![](Images/N-bit-DAC.png)
+
 
 # Opensource Tools used
 
