@@ -12,10 +12,12 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
 
 # Pre Layout Simulations
    
-  # switch
+  # switch 
   
  The screenshots of the switch circuit schematic is shown below:
    
  ![](Schematics/switch_A.png)
 
 The result of transient analysis of the switch is shown below:
+
+ ![](Schematics/switch_A_op.png)
