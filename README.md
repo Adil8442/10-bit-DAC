@@ -2,6 +2,13 @@
 
 This project presents the design of a 10 Bit Potentiometric Digital to Analog Converter using end-to-end Open-source EDA tools. The aim is to design a 10-bit potentiometric Digital to Analog Converter(DAC) with 3.3V analog voltage, 1.8V digital voltage  using the sky130nm technology node.
 
+# Introduction
+
+In real world, most of the signals are analog in nature while the digital systems can understand only digital signals. Hence it becomes essential to convert real world analog signals into digital signals. This can be done using digital to analog converters(DACs). A digital to analog converter takes in digital bits as input and converts it into correponding analog voltage.
+
+An n-bit Digital to Analog Converter (DAC) takes in n-bit digital input and converts it into corresponding analog voltage level with respect to the reference voltage. The potentiometric DAC used in the design uses the concept of Voltage Divider.It consists of 2^N equal resistors connencted in series. The basic architecture of an N-bit potentiometric DAC is shown in the figure below.
+
+
 # Opensource Tools used
 
 1. eSim: eSim is a Free and Open source EDA tool for circuit design, simulation, analysis and PCB design developed by FOSSEE, IIT Bombay. It is an integrated tool built using free/libre and open source softwares such as KiCad, Ngspice and GHDL. It serves as an alternative to commercially available/ licensed software like OrCAD, Xpedition and HSPICE. For more info refer: https://esim.fossee.in/home
