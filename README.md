@@ -14,10 +14,22 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
    
   # switch 
   
- The screenshots of the switch circuit schematic is shown below:
+ The schematic of the switch circuit designed in eSim is shown below:
    
  ![](Schematics/switch_A.png)
 
-The result of transient analysis of the switch is shown below:
+The result of transient analysis of the switch circuit is shown below:
 
  ![](Schematics/switch_A_op.png)
+
+# 2bit DAC
+
+For designing the 2 bit DAC, switch circuit was used as a subcircuit.
+The schematic of the 2 bit DAC circuit  is shown below:
+
+ ![](Schematics/2bit_DAC_A.png)
+ 
+ The result of the transient analysis of the 2bit DAC is shown below:
+ 
+ 
+ 
