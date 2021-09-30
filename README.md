@@ -20,7 +20,7 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
 
 The result of transient analysis of the switch circuit is shown below:
 
- ![](Schematics/switch_A_op.png)
+ ![](Simulation outputs/switch_A_op.png)
 
 # 2bit DAC
 
@@ -31,5 +31,5 @@ The schematic of the 2 bit DAC circuit  is shown below:
  
  The result of the transient analysis of the 2bit DAC is shown below:
  
- 
+ ![](Simulation outputs/2bit_DAC_A_op.png)
  
