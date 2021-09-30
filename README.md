@@ -2,6 +2,14 @@
 
 This project presents the design of a 10 Bit Potentiometric Digital to Analog Converter using end-to-end Open-source EDA tools. The aim is to design a 10-bit potentiometric Digital to Analog Converter(DAC) with 3.3V analog voltage, 1.8V digital voltage  using the sky130nm technology node.
 
+# Table of contents
+
+  * [1. Introduction](#introduction)
+  * [2. Opensource Tools used](#opensource-tools-used)
+  * [3. Pre Layout Simulations](#pre-layout-simulations)
+     + [Switch](#switch)
+     + [2 Bit DAC](#2-bit-dac)
+
 # Introduction
 
 In real world, most of the signals are analog in nature while the digital systems can understand only digital signals. Hence it becomes essential to convert real world analog signals into digital signals. This can be done using digital to analog converters(DACs). A digital to analog converter takes in digital bits as input and converts it into correponding analog voltage.
@@ -10,6 +18,9 @@ An n-bit Digital to Analog Converter (DAC) takes in n-bit digital input and conv
 
 ![](Images/N-bit-DAC.png)
 
+The switches in the above circuit are designed as shown below.
+
+![](Images/switch_circuit.png)
 
 # Opensource Tools used
 
@@ -31,7 +42,7 @@ The result of transient analysis of the switch circuit is shown below:
 
  ![](Simulation_Outputs/switch_A_op.png)
 
-# 2bit DAC
+# 2 Bit DAC
 
 For designing the 2 bit DAC, switch circuit was used as a subcircuit.
 The schematic of the 2 bit DAC circuit  is shown below:
