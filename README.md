@@ -14,6 +14,8 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
    
   # switch
   
-  The switch circuit mentioned above was designed using eSim. The screenshots of the schematic is as shown below:
- 
+ The screenshots of the switch circuit schematic is shown below:
+   
+ ![](Schematics/switch_A.png)
 
+The result of transient analysis of the switch is shown below:
