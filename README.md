@@ -10,6 +10,9 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
      + [Switch](#switch)
      + [2 Bit DAC](#2-bit-dac)
      + [3 Bit DAC](#3-bit-dac)
+     + [4 Bit DAC](#4-bit-dac)
+     + [5 Bit DAC](#5-bit-dac)
+     + [6 Bit DAC](#6-bit-dac)
 
 # Introduction
 
@@ -52,13 +55,34 @@ The schematic of the 2 bit DAC circuit  is shown below :
  
  The result of the transient analysis of the 2bit DAC is shown below:
  
- ![](Simulation_Outputs/2bit_DAC_A_op.png)
+ ![](Simulation_Outputs/2bit_DAC_op.png)
  
 # 3 Bit DAC
 
 For designing the 3 Bit DAC, 2 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 3 bit DAC circuit in eSim is shown below :
 
+![](Schematics/3bit_DAC_A.png)
+
+ The result of the transient analysis of the 3bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/3bit_DAC_op.png)
+ 
+# 4 Bit DAC
+
+For designing the 4 Bit DAC, 3 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 4 bit DAC circuit in eSim is shown below :
+
+![](Schematics/4bit_DAC_A.png)
+
+ The result of the transient analysis of the 4 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/4bit_DAC_op.png)
+ 
+ # 5 Bit DAC
+ 
+# Further Work
+   * 
 # References
 
   * [1. https://github.com/vsdip/avsddac_3v3_sky130_v2](https://github.com/vsdip/avsddac_3v3_sky130_v2)
