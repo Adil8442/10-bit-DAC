@@ -11,6 +11,7 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
      + [2 Bit DAC](#2-bit-dac)
      + [3 Bit DAC](#3-bit-dac)
      + [4 Bit DAC](#4-bit-dac)
+     + [5 Bit DAC](#5-bit-dac)
      
 
 # Introduction
@@ -78,6 +79,16 @@ The schematic of the 4 bit DAC circuit in eSim is shown below :
  
  ![](Simulation_Outputs/4bit_DAC_op.png)
  
+ # 5 Bit DAC
+ 
+ For designing the 5 Bit DAC, 4 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 5 bit DAC circuit in eSim is shown below :
+
+![](Schematics/5bit_DAC_A.png)
+
+ The result of the transient analysis of the 5 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/5bit_DAC_op.png)
  
 # Further Work
    * To obtain simulation output for 10 Bit DAC
