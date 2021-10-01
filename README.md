@@ -11,8 +11,7 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
      + [2 Bit DAC](#2-bit-dac)
      + [3 Bit DAC](#3-bit-dac)
      + [4 Bit DAC](#4-bit-dac)
-     + [5 Bit DAC](#5-bit-dac)
-     + [6 Bit DAC](#6-bit-dac)
+     
 
 # Introduction
 
@@ -79,10 +78,9 @@ The schematic of the 4 bit DAC circuit in eSim is shown below :
  
  ![](Simulation_Outputs/4bit_DAC_op.png)
  
- # 5 Bit DAC
  
 # Further Work
-   * 
+   * To obtain simulation output for 10 Bit DAC
 # References
 
   * [1. https://github.com/vsdip/avsddac_3v3_sky130_v2](https://github.com/vsdip/avsddac_3v3_sky130_v2)
