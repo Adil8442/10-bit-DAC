@@ -103,6 +103,8 @@ The schematic of the 6 bit DAC circuit in eSim is shown below :
 ![](Schematics/6bit_DAC_A.png)
 
  The result of the transient analysis of the 6 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/6bit_DAC_op.png)
 
  # 7 Bit DAC
  
@@ -112,6 +114,8 @@ The schematic of the 7 bit DAC circuit in eSim is shown below :
 ![](Schematics/7bit_DAC_A.png)
 
  The result of the transient analysis of the 7 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/7bit_DAC_op.png)
 
  # 8 Bit DAC
  
@@ -121,6 +125,8 @@ The schematic of the 8 bit DAC circuit in eSim is shown below :
 ![](Schematics/8bit_DAC_A.png)
 
  The result of the transient analysis of the 8 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/8bit_DAC_op.png)
 
  # 9 Bit DAC
  
@@ -130,6 +136,8 @@ The schematic of the 9 bit DAC circuit in eSim is shown below :
 ![](Schematics/9bit_DAC_A.png)
 
  The result of the transient analysis of the 9 bit DAC is shown below:
+ 
+ ![](Simulation_Outputs/9bit_DAC_op.png)
 
  # 10 Bit DAC
  
