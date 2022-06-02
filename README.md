@@ -12,6 +12,11 @@ This project presents the design of a 10 Bit Potentiometric Digital to Analog Co
      + [3 Bit DAC](#3-bit-dac)
      + [4 Bit DAC](#4-bit-dac)
      + [5 Bit DAC](#5-bit-dac)
+     + [6 Bit DAC](#6-bit-dac)
+     + [7 Bit DAC](#7-bit-dac)
+     + [8 Bit DAC](#8-bit-dac)
+     + [9 Bit DAC](#9-bit-dac)
+     + [10 Bit DAC](#10-bit-dac)
      
 
 # Introduction
@@ -81,7 +86,7 @@ The schematic of the 4 bit DAC circuit in eSim is shown below :
  
  # 5 Bit DAC
  
- For designing the 5 Bit DAC, 4 Bit DAC as well as the switch circuit were used as a subcircuit.\
+For designing the 5 Bit DAC, 4 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 5 bit DAC circuit in eSim is shown below :
 
 ![](Schematics/5bit_DAC_A.png)
@@ -89,6 +94,41 @@ The schematic of the 5 bit DAC circuit in eSim is shown below :
  The result of the transient analysis of the 5 bit DAC is shown below:
  
  ![](Simulation_Outputs/5bit_DAC_op.png)
+ 
+ # 6 Bit DAC
+ 
+For designing the 6 Bit DAC, 5 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 6 bit DAC circuit in eSim is shown below :
+
+ The result of the transient analysis of the 6 bit DAC is shown below:
+
+ # 7 Bit DAC
+ 
+For designing the 7 Bit DAC, 6 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 7 bit DAC circuit in eSim is shown below :
+
+ The result of the transient analysis of the 7 bit DAC is shown below:
+
+ # 8 Bit DAC
+ 
+For designing the 8 Bit DAC, 7 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 8 bit DAC circuit in eSim is shown below :
+
+ The result of the transient analysis of the 8 bit DAC is shown below:
+
+ # 9 Bit DAC
+ 
+For designing the 9 Bit DAC, 8 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 9 bit DAC circuit in eSim is shown below :
+
+ The result of the transient analysis of the 9 bit DAC is shown below:
+
+ # 10 Bit DAC
+ 
+For designing the 10 Bit DAC, 9 Bit DAC as well as the switch circuit were used as a subcircuit.\
+The schematic of the 10 bit DAC circuit in eSim is shown below :
+
+
  
 # Further Work
    * To obtain simulation output for 10 Bit DAC
