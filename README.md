@@ -100,12 +100,16 @@ The schematic of the 5 bit DAC circuit in eSim is shown below :
 For designing the 6 Bit DAC, 5 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 6 bit DAC circuit in eSim is shown below :
 
+![](Schematics/6bit_DAC_A.png)
+
  The result of the transient analysis of the 6 bit DAC is shown below:
 
  # 7 Bit DAC
  
 For designing the 7 Bit DAC, 6 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 7 bit DAC circuit in eSim is shown below :
+
+![](Schematics/7bit_DAC_A.png)
 
  The result of the transient analysis of the 7 bit DAC is shown below:
 
@@ -114,6 +118,8 @@ The schematic of the 7 bit DAC circuit in eSim is shown below :
 For designing the 8 Bit DAC, 7 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 8 bit DAC circuit in eSim is shown below :
 
+![](Schematics/8bit_DAC_A.png)
+
  The result of the transient analysis of the 8 bit DAC is shown below:
 
  # 9 Bit DAC
@@ -121,12 +127,16 @@ The schematic of the 8 bit DAC circuit in eSim is shown below :
 For designing the 9 Bit DAC, 8 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 9 bit DAC circuit in eSim is shown below :
 
+![](Schematics/9bit_DAC_A.png)
+
  The result of the transient analysis of the 9 bit DAC is shown below:
 
  # 10 Bit DAC
  
 For designing the 10 Bit DAC, 9 Bit DAC as well as the switch circuit were used as a subcircuit.\
 The schematic of the 10 bit DAC circuit in eSim is shown below :
+
+![](Schematics/10bit_DAC_A.png)
 
 
  
